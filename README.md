@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**supreeth7/supreeth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Web Engineer, an avid learner who is passionate about rapid and sustainable engineering. Being a technology enthusiast, I love to build applications - nothing is more challenging than starting from an on-paper wireframe into a robust product eventually used by millions. 
 
-Here are some ideas to get you started:
+- Currently I'm working on building microservices with PHP.
+- You can have a look at my work on my website [website](http://www.supreeth.live/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<code><img align ="center" src="https://github-readme-stats.vercel.app/api?username=supreeth7&show_icons=true"></code>
+
+
+### 📫 How to reach me:
+- Email : supreeth.b@outlook.com
+- Instagram : [@iam.supreeth](https://www.instagram.com/iam.supreeth/)
+- LinkedIn : [Supreeth](https://www.linkedin.com/in/supreeth-b/) 
