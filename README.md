@@ -3,7 +3,7 @@
 I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Web Engineer, an avid learner who is passionate about rapid and sustainable engineering. Being a technology enthusiast, I love to build applications - nothing is more challenging than starting from an on-paper wireframe into a robust product eventually used by millions. 
 
 - Currently I'm working on building microservices with PHP.
-- You can have a look at my work on my website [website](http://www.supreeth.live/).
+- You can have a look at my work on my [website](http://www.supreeth.live/).
 
 
 
