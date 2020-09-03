@@ -7,8 +7,8 @@ I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Web
 
 
 
-<code><img align ="center" src="https://github-readme-stats.vercel.app/api?username=supreeth7&show_icons=true"></code>
-<code><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supreeth7&show_icons=true&layout=compact"></code>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=supreeth7&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=supreeth7&show_icons=true&layout=compact)
 
 
 
