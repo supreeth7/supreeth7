@@ -8,7 +8,7 @@ I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Web
 
 
 <code><img align ="center" src="https://github-readme-stats.vercel.app/api?username=supreeth7&show_icons=true"></code>
-<code><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supreeth7&show_icons=true"></code>
+<code><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supreeth7&show_icons=true&layout=compact"></code>
 
 
 
@@ -16,5 +16,5 @@ I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Web
 
 ### 📫 How to reach me:
 - Email : supreeth.b@outlook.com
+- LinkedIn : [Supreeth](https://www.linkedin.com/in/supreeth-b/)
 - Instagram : [@iam.supreeth](https://www.instagram.com/iam.supreeth/)
-- LinkedIn : [Supreeth](https://www.linkedin.com/in/supreeth-b/) 
