@@ -6,7 +6,12 @@ I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Web
 - You can have a look at my work on my website [website](http://www.supreeth.live/).
 
 
+
 <code><img align ="center" src="https://github-readme-stats.vercel.app/api?username=supreeth7&show_icons=true"></code>
+<code><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supreeth7&show_icons=true"></code>
+
+
+
 
 
 ### 📫 How to reach me:
