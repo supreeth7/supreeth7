@@ -5,7 +5,7 @@ I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Web
 - Currently I'm working on building microservices with PHP.
 - Have a look at all my work [here](https://devfolio.co/@supreeth7700).
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=supreeth7&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+![Supreeth's github stats](https://github-readme-stats.vercel.app/api?username=supreeth7&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=supreeth7&show_icons=true&layout=compact)
 
 ### 📫 Reach out to me:
