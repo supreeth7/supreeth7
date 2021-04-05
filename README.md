@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Web Engineer, an avid learner who is passionate about rapid and sustainable engineering. Being a technology enthusiast, I love to build applications - nothing is more challenging than starting from an on-paper wireframe into a robust product eventually used by millions.
+I am Supreeth Basabattini, you can call me Supreeth 😄. I am a 👨‍💻 Software Engineer, an avid learner who is passionate about rapid and sustainable engineering. Being a technology enthusiast, I love to build applications - nothing is more challenging than starting from an on-paper wireframe into a robust product eventually used by millions.
 
 - Currently I'm working on building microservices with PHP.
 - Have a look at all my work [here](https://devfolio.co/@supreeth7700).
