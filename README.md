@@ -20,6 +20,3 @@ Get in touch:
 💌&nbsp;  supreeth.b@outlook.com    
 💼&nbsp;  [LinkedIn](https://www.linkedin.com/in/supreeth-b/)    
 📸&nbsp;  [Instagram](https://www.instagram.com/iam.supreeth/)    
-
-![Supreeth's github stats](https://github-readme-stats.vercel.app/api?username=supreeth7&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=supreeth7&show_icons=true&layout=compact)
