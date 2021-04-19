@@ -7,7 +7,7 @@ I’m currently learning:
 🚀&nbsp;  Distributed systems and microservice architectures  
 🏋️&nbsp;  Ways to lead a healthy lifestyle  
 
-I'm currently watching and reading:  
+I'm currently reading and watching:  
 📚&nbsp;  Ikigai (by Francesc Miralles and Hector Garcia)  
 🎞️&nbsp;  Attack on Titan - The final season (Anime)  
 
