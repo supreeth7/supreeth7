@@ -4,7 +4,7 @@ Hi, I'm Supreeth!
   
 I’m currently learning:  
 🏔️&nbsp;  About climate change and global warming  
-🚀&nbsp;  Distributed systems and microservice architectures
+🚀&nbsp;  Distributed systems and microservice architectures  
 🏋️&nbsp;  Ways to lead a healthy lifestyle  
 
 I'm currently watching and reading:  
