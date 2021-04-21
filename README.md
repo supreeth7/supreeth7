@@ -3,7 +3,7 @@ Hi, I'm Supreeth!
 🌈&nbsp;  Trying to make development rapid and sustainable  
   
 I’m currently learning:  
-🏔️&nbsp;  About climate change and how to reduce plastic use 
+🏔️&nbsp;  About climate change and how to reduce plastic use   
 🚀&nbsp;  Distributed systems and microservice architectures  
 🏋️&nbsp;  Ways to lead a healthy lifestyle  
 
