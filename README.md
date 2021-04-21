@@ -3,13 +3,13 @@ Hi, I'm Supreeth!
 🌈&nbsp;  Trying to make development rapid and sustainable  
   
 I’m currently learning:  
-🏔️&nbsp;  About climate change and global warming  
+🏔️&nbsp;  About climate change and how to reduce plastic use 
 🚀&nbsp;  Distributed systems and microservice architectures  
 🏋️&nbsp;  Ways to lead a healthy lifestyle  
 
 I'm currently reading and watching:  
 📚&nbsp;  Ikigai (by Francesc Miralles and Hector Garcia)  
-🎞️&nbsp;  Attack on Titan - The final season (Anime)  
+🎞️&nbsp;  Attack on Titan - The Final Season (Anime)  
 
 Ask me about:  
 💻&nbsp;  Software development  
