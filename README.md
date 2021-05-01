@@ -13,7 +13,7 @@ I'm currently reading and watching:
 
 Ask me about:  
 💻&nbsp;  Software development  
-🤓&nbsp;  Universe, time travel and space-time  
+🤓&nbsp;  Space, time travel and space-time  
 🎮&nbsp;  Video games  
   
 Get in touch:  
