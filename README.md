@@ -1,5 +1,5 @@
 😄&nbsp; Hi, I'm Supreeth!  
-🔭&nbsp; I’m a software developer  
+👨‍💻&nbsp; I’m a software developer  
 🌈&nbsp;  Trying to make development rapid and sustainable  
   
 I’m currently learning:  
