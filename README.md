@@ -1,6 +1,6 @@
 😄&nbsp;  Hi, I'm Supreeth!    
-👨‍💻&nbsp;  I’m a proud Red Hatter working as an SRE!    
-🌈&nbsp;  Trying to make development rapid and sustainable    
+👨‍💻&nbsp;  I’m a proud Red Hatter working as an SRE         
+🌈&nbsp;  Trying to make development rapid and sustainable        
   
 I’m currently learning:  
 🏔️&nbsp;  About climate change and how to reduce plastic use   
